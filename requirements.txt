@@ -10,3 +10,6 @@ scipy
 librosa
 numba==0.48.0
 ffmpeg
+flask
+boto3
+openai
